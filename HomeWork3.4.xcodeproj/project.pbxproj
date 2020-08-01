@@ -13,6 +13,7 @@
 		A62204F424D55DAB00A68151 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A62204F324D55DAB00A68151 /* Assets.xcassets */; };
 		A62204F724D55DAB00A68151 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A62204F624D55DAB00A68151 /* Preview Assets.xcassets */; };
 		A62204FA24D55DAB00A68151 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A62204F824D55DAB00A68151 /* LaunchScreen.storyboard */; };
+		A622050224D5636E00A68151 /* UIKitSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = A622050124D5636E00A68151 /* UIKitSlider.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A62204F624D55DAB00A68151 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A62204F924D55DAB00A68151 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A62204FB24D55DAB00A68151 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A622050124D5636E00A68151 /* UIKitSlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIKitSlider.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				A62204ED24D55DA700A68151 /* AppDelegate.swift */,
 				A62204EF24D55DA700A68151 /* SceneDelegate.swift */,
 				A62204F124D55DA700A68151 /* ContentView.swift */,
+				A622050124D5636E00A68151 /* UIKitSlider.swift */,
 				A62204F324D55DAB00A68151 /* Assets.xcassets */,
 				A62204F824D55DAB00A68151 /* LaunchScreen.storyboard */,
 				A62204FB24D55DAB00A68151 /* Info.plist */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A62204EE24D55DA700A68151 /* AppDelegate.swift in Sources */,
+				A622050224D5636E00A68151 /* UIKitSlider.swift in Sources */,
 				A62204F024D55DA700A68151 /* SceneDelegate.swift in Sources */,
 				A62204F224D55DA700A68151 /* ContentView.swift in Sources */,
 			);
